@@ -1,0 +1,21 @@
+Schema
+1. Create table 
+2. Alter table [Table is not having any data]
+	a. Add column 
+	b. Update column 
+	c. Delete column
+
+2.1 Alter table [Table is having data]	
+	a. Add Column
+	b. Update column
+	c. Delete column	
+
+3. Delete table
+
+Data
+1. Add data into table
+2. Alter data into table 
+3. Delete data from table 
+
+
+ 
