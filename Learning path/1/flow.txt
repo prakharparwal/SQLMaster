@@ -3,22 +3,24 @@ Schema
 2. Alter table [Table is not having any data]
 	a. Add column 
 	b. Update column 
+		b.1 Column data type
+		b.2 Column name
 	c. Delete column
-
-2.1 Alter table [Table is having data]	
-	a. Add Column
-	b. Update column - Data type 
-	d. Update column - column name
-	c. Delete column	
 
 3. Delete table
 	a. With Data 
 	b. Without Data 
 
 Data
-1. Add data into table
-2. Alter data into table 
-3. Delete data from table 
+
+4. Add data into table
+	
+5 .1 Alter table schema [Table is having data]	
+	a. Add Column
+		a.1 Not null column with default value
+	B. Update column - column name
+	C. Delete column	
+
 
 
  
