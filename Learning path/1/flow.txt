@@ -7,10 +7,13 @@ Schema
 
 2.1 Alter table [Table is having data]	
 	a. Add Column
-	b. Update column
+	b. Update column - Data type 
+	d. Update column - column name
 	c. Delete column	
 
 3. Delete table
+	a. With Data 
+	b. Without Data 
 
 Data
 1. Add data into table
