@@ -1,0 +1,19 @@
+Data 
+
+1. Insert (Create) data 
+	A. Insert entire data into table 
+	B. Insert data into duplicate primary key
+	C. Insert data with missing details
+
+2. Read data
+	A. Read data of all columns 
+	B. Read data of specific columns 
+
+3. Update data 
+	A. Update all data of particular column 
+	B. Update data of particular column and row
+
+4. Delete data 
+	A. Delete particular row data
+	B. Delete particular column data 
+	C. Delete entire data of table 
