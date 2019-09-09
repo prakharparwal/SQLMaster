@@ -1,0 +1,7 @@
+Reading specific data 
+	
+3.1 Where clause 
+3.1.1 Where clause with AND condition
+3.1.2 Where clause with OR condition 
+3.1.2. NOT condition 
+
