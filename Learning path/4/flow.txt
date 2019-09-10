@@ -1,0 +1,7 @@
+4:
+
+4.1 NOT NULL constraint 
+4.2 Composite key 
+4.3 Greater than / less than / equals 'Date' where clause 
+4.4 IN and BETWEEN clause 
+4.5 ORDER BY, ASC , DESC 
